@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EAMalyshev
+- 👀 I’m interested in Computer science
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on School projects
